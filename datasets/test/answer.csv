@@ -1,0 +1,6 @@
+task1, worker, answer
+task1, worker1, op1
+task1, worker 2, op1
+task1, worker3, op2
+task2, worker1, op2
+task2, worker3, op1

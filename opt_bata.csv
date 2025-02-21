@@ -1,0 +1,16 @@
+data,beta1,beta2,beta3
+CF,0.6,0,0.4
+CF_amt,0.75,0.1,0.15
+d_Duck_Identification,0,0,1
+d_jn_product,1,0,0
+d_sentiment,0.05,0.25,0.7
+MS,0.3,0,0.7
+s4_Dog_data,0.15,0.05,0.8
+s4_Face_Sentiment_Identification,0.15,0.35,0.5
+s4_Relevance,0.15,0.7,0.15
+s5_AdultContent,0.75,0,0.25
+SP,0.1,0.2,0.7
+SP_amt,0,0.25,0.75
+ZenCrowd_all,1,0,0
+ZenCrowd_in,1,0,0
+ZenCrowd_us,1,0,0
